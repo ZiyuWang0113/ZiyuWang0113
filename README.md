@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I am Ziyu Wang.
 
-<!--
-**ZiyuWang0113/ZiyuWang0113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ziyuwang0372/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ziw0372@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a M.S. student of **Computer Science** at Brown University in United States.
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiyuWang0113&hide=stars&show_icons=true) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyuWang0113&layout=donut)
