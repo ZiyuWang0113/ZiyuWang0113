@@ -14,8 +14,6 @@
   <img src="https://github.com/ZiyuWang0113/ZiyuWang0113/blob/main/images/3.jpg" width="160">  <img src="https://github.com/ZiyuWang0113/ZiyuWang0113/blob/main/images/4.jpg" width="160">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiyuWang0113&hide=stars|width=80) 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyuWang0113&layout=donut)
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,django,flask,git,html,java,maven,nginx,nodejs,opencv,r,sqlite,vscode)](https://skillicons.dev)
