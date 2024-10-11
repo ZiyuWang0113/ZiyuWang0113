@@ -9,7 +9,7 @@
 - 🎸 I play acoustic guitar! I am a fan of [Yuki Matsui](https://www.youtube.com/channel/UCfy5pDNFUIpyXiqKn-CB2gg).
 - 🎮 I like games! Sometimes I post videos on [Bilibili](https://space.bilibili.com/275823074).
 - 🧑‍🍳 I cook Chinese food well!
-- 🐱 Check my cat in Nanjing!
+- 🐱 Check out my cat in Nanjing!
   
   <img src="https://github.com/ZiyuWang0113/ZiyuWang0113/blob/main/images/3.jpg" width="160">  <img src="https://github.com/ZiyuWang0113/ZiyuWang0113/blob/main/images/4.jpg" width="160">
 
