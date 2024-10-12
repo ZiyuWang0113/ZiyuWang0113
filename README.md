@@ -16,3 +16,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyuWang0113&layout=donut)
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,django,flask,git,html,java,maven,nginx,nodejs,opencv,r,sqlite,vscode)](https://skillicons.dev)
+
+![亮色](https://github.com/ZiyuWang0113/ZiyuWang0113/blob/output/github-contribution-grid-snake.svg)
+
