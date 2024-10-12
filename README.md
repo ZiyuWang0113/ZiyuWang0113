@@ -11,7 +11,7 @@
 - 🧑‍🍳 I cook Chinese food well!
 - 🐱 Check out my cat in Nanjing!
   
-<img src="https://github.com/ZiyuWang0113/ZiyuWang0113/blob/main/images/3.jpg" width="172.5">  <img src="https://github.com/ZiyuWang0113/ZiyuWang0113/blob/main/images/4.jpg" width="172.5">
+<img src="https://github.com/ZiyuWang0113/ZiyuWang0113/blob/main/images/3.jpg" width="173">  <img src="https://github.com/ZiyuWang0113/ZiyuWang0113/blob/main/images/4.jpg" width="173">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyuWang0113&layout=donut&width=800)
 
