@@ -12,13 +12,8 @@
 - 🐱 Check out my cat in Nanjing!
   
   <img src="https://github.com/ZiyuWang0113/ZiyuWang0113/blob/main/images/3.jpg" width="160">  <img src="https://github.com/ZiyuWang0113/ZiyuWang0113/blob/main/images/4.jpg" width="160">
-  
+
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyuWang0113&layout=donut)
