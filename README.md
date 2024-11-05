@@ -11,7 +11,7 @@
   
 <img src="https://github.com/ZiyuWang0113/ZiyuWang0113/blob/main/images/3.jpg" width="248"> <img src="https://github.com/ZiyuWang0113/ZiyuWang0113/blob/main/images/4.jpg" width="248">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/0x3fdegou?theme=light&font=Delius%20Unicase&ext=heatmap&site=cn&animation=false&border=1&width=500)
+![LeetCode Stats](https://leetcard.jacoblin.cool/0x3fdegou?theme=light&font=Delius%20Unicase&ext=heatmap&site=cn&border=1&width=500)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyuWang0113&layout=donut)
