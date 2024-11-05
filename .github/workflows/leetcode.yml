@@ -18,10 +18,14 @@ jobs:
           username: '0x3fdegou'
           site: 'leetcode-cn' # Use this for the Chinese version
 
-      - name: Commit changes
+      - name: Save output as SVG
+        run: |
+          mv generated-leetcode-stats.svg ./leetcode-stats.svg
+
+      - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add .
+          git add leetcode-stats.svg
           git commit -m "Update LeetCode stats"
           git push
