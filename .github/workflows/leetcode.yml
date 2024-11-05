@@ -1,0 +1,27 @@
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  update-leetcode-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch LeetCode Stats
+        uses: ansh/daily-leetcode-stats@main
+        with:
+          username: '0x3fdegou'
+          site: 'leetcode-cn' # Use this for the Chinese version
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add .
+          git commit -m "Update LeetCode stats"
+          git push
