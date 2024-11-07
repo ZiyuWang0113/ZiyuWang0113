@@ -7,7 +7,7 @@
 - ⚽ I watch Premier League and European Championship!
 - 🎸 I play acoustic guitar! I am a fan of [Yuki Matsui](https://www.youtube.com/channel/UCfy5pDNFUIpyXiqKn-CB2gg).
 - 🎮 I sometimes post videos on [Bilibili](https://space.bilibili.com/275823074)!
-- 🐱 Check out my cat in Nanjing!
+- 🐱 Check out my cat!
   
 <img src="https://github.com/ZiyuWang0113/ZiyuWang0113/blob/main/images/3.jpg" width="248"> <img src="https://github.com/ZiyuWang0113/ZiyuWang0113/blob/main/images/4.jpg" width="248">
 
