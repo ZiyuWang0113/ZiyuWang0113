@@ -5,7 +5,7 @@
 
 - 🌻 I'm a M.S. student of Computer Science at Brown University. I was a B.S. student of Mathematics at UCSD.
 - ⚽ I watch Premier League and European Championship!
-- 🎸 I play acoustic guitar! I am a fan of [Yuki Matsui](https://www.youtube.com/channel/UCfy5pDNFUIpyXiqKn-CB2gg).
+- 🎸 I play acoustic guitar!
 - 🎮 I sometimes post videos on [Bilibili](https://space.bilibili.com/275823074)!
 - 🐱 Check out my cat!
   
