@@ -12,7 +12,7 @@
 - 🌻 I'm a M.S. student of Computer Science at Brown University. I was a B.S. student of Mathematics at UCSD.
 - ⚽ I watch Premier League and European Championship!
 - 🎸 I play acoustic guitar!
-- 🎮 I sometimes post videos on [Bilibili](https://space.bilibili.com/275823074)!
+- 🎮 I sometimes post videos on Bilibili!
 - 🐱 Check out my cat!
   
 <img src="https://github.com/ZiyuWang0113/ZiyuWang0113/blob/main/images/3.jpg" width="248"> <img src="https://github.com/ZiyuWang0113/ZiyuWang0113/blob/main/images/4.jpg" width="248">
