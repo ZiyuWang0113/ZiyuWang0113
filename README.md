@@ -1,7 +1,19 @@
 # Hi there, I am Ziyu Wang.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ziyuwang0372/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ziw0372@gmail.com)
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/ziyuwang0372">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" height="30">
+  </a>
+  <a href="mailto:ziw0372@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" height="30">
+  </a>
+  <a href="https://leetcode.cn/u/0x3fdegou/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="LeetCode" height="30">
+  </a>
+  <a href="https://space.bilibili.com/275823074">
+    <img src="https://img.shields.io/badge/-Bilibili-00A1D6?style=flat&logo=Bilibili&logoColor=white" alt="Bilibili" height="30">
+  </a>
+</div>
 
 - 🌻 I'm a M.S. student of Computer Science at Brown University. I was a B.S. student of Mathematics at UCSD.
 - ⚽ I watch Premier League and European Championship!
