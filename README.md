@@ -1,32 +1,12 @@
 # Hi there, I am Ziyu Wang.
 
-<div style="display: flex; align-items: center; gap: 15px; margin: 0;">
-  <span style="display: inline-block;">
-    <a href="https://www.linkedin.com/in/ziyuwang0372" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" height="30">
-    </a>
-  </span>
-  <span style="display: inline-block;">
-    <a href="mailto:ziw0372@gmail.com" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" height="30">
-    </a>
-  </span>
-  <span style="display: inline-block;">
-    <a href="https://leetcode.cn/u/0x3fdegou/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="LeetCode" height="30">
-    </a>
-  </span>
-  <span style="display: inline-block;">
-    <a href="https://space.bilibili.com/275823074" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/-Bilibili-00A1D6?style=flat&logo=Bilibili&logoColor=white" alt="Bilibili" height="30">
-    </a>
-  </span>
-</div>
-
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ziyuwang0372)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ziw0372@gmail.com)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.cn/u/0x3fdegou/)
+&nbsp;
+[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/275823074)
 
 
 - 🌻 I'm a M.S. student of Computer Science at Brown University. I was a B.S. student of Mathematics at UCSD.
