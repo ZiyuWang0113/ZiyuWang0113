@@ -1,6 +1,6 @@
 # Hi there, I am Ziyu Wang.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ziyuwang0372)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ziyuwang0372)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ziw0372@gmail.com)
 &nbsp;
