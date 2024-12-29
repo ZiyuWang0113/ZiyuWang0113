@@ -6,7 +6,7 @@
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.cn/u/0x3fdegou/)
 &nbsp;
-[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/275823074)
+[![Bilibili](https://img.shields.io/badge/-bilibili-00A1D6?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/275823074)
 
 
 🌻 I'm a M.S. student of Computer Science at Brown University. I was a B.S. student of Mathematics at UCSD.
