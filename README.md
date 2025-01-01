@@ -1,6 +1,5 @@
 # Hi there, I am Ziyu Wang.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ziyuwang0372)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xOSAwSDVDMi4yNCAwIDAgMi4yNCAwIDV2MTRjMCAyLjc2IDIuMjQgNSA1IDVoMTRjMi43NiAwIDUtMi4yNCA1LTVWNWMwLTIuNzYtMi4yNC01LTUtNXpNNy40NjcgMTlINC41di04LjgyaDIuOTY3em0tMS40ODUtMTAuMDZoLS4wM2MtMS4wMDkgMC0xLjY2LS42ODUtMS42NjEtMS41NDIgMC0uODguNjc0LTEuNTQxIDEuNzA4LTEuNTQxczEuNjYxLjY2NSAxLjY2MSAxLjU0MS0uNjc0IDEuNTQyLTEuNzA4IDEuNTQyWm0xMC41NDIgMTAuMDYzaC0yLjk2N3YtNC4zMDRjMC0xLjA4MS0uMzk0LTEuODItMS4zNjMtMS44Mi0uNzQxIDAtMS4xODMuNDgxLTEuMzgyLjg1Mi0uMDcuMTcyLS4wOS40MS0uMDkuNjQ5djQuNDk2SDcuODQ1cy4wMzktNy4yOTUgMC04LjgyaDMuMDc4djEuMjUxYy4zOTktLjYwOCAxLjEwNy0xLjQ3NCAyLjY5Ny0xLjQ3NCAxLjk1NiAwIDMuNDMxIDEuMjczIDMuNDMxIDQuMDExeCIvPjwvc3ZnPg==)](https://www.linkedin.com/in/ziyuwang0372)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ziw0372@gmail.com)
 &nbsp;
