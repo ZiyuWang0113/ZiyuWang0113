@@ -10,7 +10,7 @@
 
 🌻 I'm a M.S. student of Computer Science at Brown University. I was a B.S. student of Mathematics at UCSD.
 
-⚽ I watch Premier League and European Championship!
+⚽ I watch Premier League!
 
 🎸 I play acoustic guitar!
 
