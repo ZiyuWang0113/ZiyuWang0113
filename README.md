@@ -21,7 +21,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyuWang0113&layout=donut)
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,django,flask,git,html,java,maven,nginx,nodejs,opencv,r,sqlite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,cpp,django,flask,git,html,java,nginx,nodejs,py,pytorch,r,sqlite,vscode)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZiyuWang0113/ZiyuWang0113/output/github-contribution-grid-snake.svg">
