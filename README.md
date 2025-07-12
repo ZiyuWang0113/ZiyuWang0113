@@ -10,10 +10,6 @@
 
 🌻 I'm a M.S. student of Computer Science at Brown University. I was a B.S. student of Mathematics at UCSD.
 
-⚽ I watch Premier League!
-
-🎸 I play acoustic guitar!
-
 🎮 I sometimes post videos on Bilibili!
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/0x3fdegou?theme=light&font=Delius%20Unicase&ext=heatmap&site=cn&border=1&width=500)
