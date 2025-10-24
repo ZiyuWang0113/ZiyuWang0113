@@ -7,17 +7,21 @@
 &nbsp;
 [![Bilibili](https://img.shields.io/badge/-bilibili-00A1D6?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/275823074)
 
+🌻 M.S. of Computer Science at Brown University 2025; B.S. of Mathematics at UCSD 2023.
 
-🌻 I'm a M.S. student of Computer Science at Brown University. I was a B.S. student of Mathematics at UCSD.
+🎮 Check out my videos on Bilibili.
 
-🎮 I sometimes post videos on Bilibili!
+:star2: Learning forever.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/0x3fdegou?theme=light&font=Delius%20Unicase&ext=heatmap&site=cn&border=1&width=500)
+![LeetCode Stats](https://leetcard.jacoblin.cool/0x3fdegou?theme=light&font=Delius%20Unicase&ext=heatmap&site=cn&border=1&width=500)<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="340">
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyuWang0113&layout=donut)
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,cpp,django,flask,git,html,java,nginx,nodejs,py,pytorch,r,sqlite,vscode)](https://skillicons.dev)
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"><img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,r,sqlite,anaconda,aws,django,flask,git,pytorch,vscode)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZiyuWang0113/ZiyuWang0113/output/github-contribution-grid-snake.svg">
